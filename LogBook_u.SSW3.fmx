@@ -1,0 +1,9 @@
+inherited Form1_SSW3: TForm1_SSW3
+  ClientHeight = 183
+  ClientWidth = 183
+  DesignerMasterStyle = 0
+  inherited GridPanelLayout1: TGridPanelLayout
+    Size.Width = 183.000000000000000000
+    Size.Height = 183.000000000000000000
+  end
+end
